@@ -15,7 +15,7 @@ describe("App", () => {
     expect(tree).toMatchSnapshot();
   });
 });
-describe("Counter", () => {
+describe("Pagination", () => {
   test("snapshot renders", () => {
     const component = renderer.create(<Pagination cursor={1} />);
     let tree = component.toJSON();
