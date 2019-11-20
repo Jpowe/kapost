@@ -1,3 +1,2 @@
-# user-table-exercise
-Front End Exercise for Interview Candidates
-# kapost
+# search-table-pagination exercise
+ 
